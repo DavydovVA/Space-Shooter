@@ -4,7 +4,7 @@ from settings import Settings
 import g_func as gf
 from ship import Ship
 from perk import Perk
-from space_object import SpaceObject #чекнуть че будет если убарть
+from space_object import SpaceObject #посмотреть что будет если убарть
 from pygame.sprite import Group
 
 
@@ -57,7 +57,7 @@ run_game()
 #ОБУЧИТЬ НЕЙРОСЕТЬ УПРАВЛЕНИЮ КОРАБЛЕМ!!!!!!!!!!!!!!!!!!!!!!!!!!!!
 
 
-#Перка стрельба энергетической пулей
+#Перк стрельба энергетической пулей
 #Настроить спавн объектов
 #траектория космических объектов (не перков)
 """END"""
